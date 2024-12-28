@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1.4_Shop", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HT4", "..\HT4\HT4.csproj", "{1F0DE447-EE1E-4513-BB2F-B4F3CBB10660}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hometask5_Strings", "..\Hometask5_Strings\Hometask5_Strings.csproj", "{FFA1454D-9887-4EC8-B3FB-2662944E32E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1F0DE447-EE1E-4513-BB2F-B4F3CBB10660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F0DE447-EE1E-4513-BB2F-B4F3CBB10660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F0DE447-EE1E-4513-BB2F-B4F3CBB10660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA1454D-9887-4EC8-B3FB-2662944E32E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA1454D-9887-4EC8-B3FB-2662944E32E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA1454D-9887-4EC8-B3FB-2662944E32E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA1454D-9887-4EC8-B3FB-2662944E32E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
